@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lightning McQueen
+* source:	https://sketchfab.com/3d-models/lightning-mcqueen-25366bd1dede4aa5ba7b62d2b5028ecf
+* author:	Zander2842 (https://sketchfab.com/zander2842)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lightning McQueen" (https://sketchfab.com/3d-models/lightning-mcqueen-25366bd1dede4aa5ba7b62d2b5028ecf) by Zander2842 (https://sketchfab.com/zander2842) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
